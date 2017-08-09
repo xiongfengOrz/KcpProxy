@@ -1,0 +1,2 @@
+/home/xf/github/kcp_test/build/CMakeFiles/kcp_client.dir
+/home/xf/github/kcp_test/build/CMakeFiles/kcp_server.dir

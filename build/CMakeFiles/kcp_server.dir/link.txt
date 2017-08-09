@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/kcp_server.dir/kcp_server.c.o CMakeFiles/kcp_server.dir/debug.c.o CMakeFiles/kcp_server.dir/ikcp.c.o CMakeFiles/kcp_server.dir/commandline.c.o CMakeFiles/kcp_server.dir/kcp_util.c.o CMakeFiles/kcp_server.dir/kcp_config.c.o CMakeFiles/kcp_server.dir/json.c.o  -o kcp_server -rdynamic -lm -levent 
